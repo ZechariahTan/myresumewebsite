@@ -1,0 +1,209 @@
+{
+  "main": {
+    "name":"Zechariah Tan",
+    "occupation":"roboticist",
+    "description":"I am currently a 2nd year Undergraduate in Computer Science from the National University of Singapore ",
+    "image":"profilepic.jpg",
+    "bio":"2nd Year Computer Science undergraduate at the National University of Singapore. An aspiring roboticist. My hobbies include skateboarding, playing DnD, and PC building.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "zx3110@gmail.com",
+    "phone": "92711031",
+    "address":{
+      "street":"31 Rosewood Drive",
+      "city":"Singapore",
+      "state":"Singapore",
+      "zip": "737922"
+    },
+    "website": "http://www.zechariahtan.com",
+    "resumedownload":"http://zechariahtan.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/zechariah.tan.1",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/zx3110",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/zechariahtan",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"National University of Singapore",
+        "degree":"Bachelor's in Computer Science | CAP 4.23 out of 5",
+        "graduated":"Aug 2019 - Present",
+        "description":"My education in NUS has included modules on Data Structures and Algorithms, Cybersecurity, and Operating Systems. Due to my interest in AI and robotics, I have also taken introductory modules on linguistics and Artificial Intelligence. "
+      },
+      {
+        "school":"Ngee Ann Polytechnic",
+        "degree":"Diploma in Engineering Science | CAP 3.98 out of 5",
+        "graduated":"Apr 2014 - Apr 2017",
+        "description":"During my time in Ngee Ann Polytechnic, I became well versed in various engineering disciplines, eventually specialising in Electrical and Electronics Engineering. My final year project included the development of machine learning algorithms for use in the medical industry. Throughout my education in polytechnic, I have also competed in robotics competitions and achieved placement on the director’s list.        "
+      }
+    ],
+    "experience":[
+      {
+        "company":"Defence Science Technology Agency",
+        "title":"Intern",
+        "years":"Jun 2020 – Aug 2020",
+        "description":"Aided the cybersecurity branch of DSTA in developing a threat intelligence dashboard designed to track compromised mobile systems. Assisted by writing code to help gather and organise relevant data."
+      },
+      {
+        "company":"DSO National Laboratories",
+        "title":"Intern",
+        "years":"Apr 2017 - Jun 2017",
+        "description":"Aided DSO Researchers in the development of projects in the Guided Systems division by providing ideas to solve problems faced. Was essential in the testing and troubleshooting of experimental technology."
+      },
+      {
+        "company":"Dreamcatcher Technologies",
+        "title":"Teaching Assistant",
+        "years":"Sep 2015 - Present",
+        "description":"Developed teaching materials and crafted curriculum for an Embedded Systems Robotics course. Assisted Lecturer during classes by guiding young students in the usage and application of the Programming language Scratch by MIT."
+      }
+    ],
+    "work":[
+      {
+        "company":"DnD Character planner",
+        "title":"Personal Project [WIP]",
+        "years":"Jan 2021 - Present",
+        "description":"I am currently working on a one stop tool for players to use as both a character sheet and light encyclopaedia for the DnD 5e ruleset. Frontend developed using Vue.JS and planned database management with Firebase. Deployed with Netlify and can be accessed at:\nhttps://dndwithincharasheet.netlify.app        "
+      },
+      {
+        "company":"The Dumbbell Curve",
+        "title":"Senior Seminar Project",
+        "years":"Oct 2020 - Dec 2020",
+        "description":"As part of my Senior Seminar, I developed a game and have deployed it onto a website. The game acts as a social commentary on the Foucauldian nature of the use of the bell curve grading system in NUS, and seeks to showcase the controlling and oppressive power this system has on students. The game was built with Unity and hosted on Netlify.        "
+      },
+      {
+        "company":"How2Grad",
+        "title":"Orbital Project",
+        "years":"March 2020 - Aug 2020",
+        "description":"I created a web application that aids NUS students from across different faculties plan the modules for their degree, with module information obtained from the NUSMods API. The web application was made using Vue.js, version controlled by git, database managed by Firebase, and deployed using Netlify. Can be accessed at:\nhttps://how2grad.netlify.app"
+      },
+      {
+        "company":"ML assisted pre-term birth prediction",
+        "title":"Final Year Project",
+        "years":"Oct 2015 - Apr 2017",
+        "description":"For my final year project in Ngee Ann Polytechnic, I was involved in the development of machine learning algorithms used to classify Electrocardiogram signals of pregnant women in an effort to predict premature births. Our work managed to achieve a prediction accuracy 96.25% and was subsequently published in Elsevier.\nDOI: 10.1016/j.compbiomed.2017.04.013"
+      }
+    ],
+    "extracurriculars":[
+      {
+        "company":"BrainHack 2020",
+        "title":"Participant",
+        "years":"Jun 2020",
+        "description":"Participated in the Computer Vision and Natural Language Processing focused hackathon organised by DSTA. Gained limited experience in the use of OpenCV, TensorFlow, and Keras."
+      },
+      {
+        "company":"Overseas Merit Fellowship, NY",
+        "title":"Participant",
+        "years":"Jul 2016",
+        "description":"Participated in an exclusive overseas exchange program whereby 19 other recipients were sent  to the Maxwell school of Citizenship and Public Affairs in Syracuse University to learn more about the differences and similarities between the education systems around the world"
+      }
+    ],
+    "awards":[
+      {
+        "company":"Defence Science Technology Agency",
+        "title":"DSTA Scholarship (Undergraduate)",
+        "years":"Apr 2017 - Present",
+        "description":""
+      },
+      {
+        "company":"Defence Science Organization",
+        "title":"DSO National Laboratories Diploma Scholarship",
+        "years":"Apr 2015 - Apr 2017",
+        "description":""
+      },
+      {
+        "company":"National Junior Robotics Competition",
+        "title":"2nd Best Programming | 2nd Best Strategy | 3rd Best Presentation ",
+        "years":"Sep 2015",
+        "description":""
+      },
+      {
+        "company":"Ngee Ann Polytechnic",
+        "title":"Merit Award",
+        "years":"Aug 2015",
+        "description":""
+      },
+      {
+        "company":"Ngee Ann Polytechnic",
+        "title":"Director's List",
+        "years":"Apr 2014",
+        "description":""
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"40%"
+      },
+      {
+        "name":"C",
+        "level":"40%"
+      },
+      {
+        "name":"C#",
+        "level":"20%"
+      },
+      {
+        "name":"Python",
+        "level":"60%"
+      },
+      {
+        "name":"VueJs",
+        "level":"30%"
+      },
+      {
+        "name":"Java",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"30%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"DnD Character Planner",
+        "category":"May WIP attempt at a tool for DnD players",
+        "image":"dnd-charactersheet.png",
+        "url":"https://dndwithincharasheet.netlify.app"
+      },
+      {
+        "title":"The Dumbbell Curve",
+        "category":"(offline now) A social commentary on the bell curve grading system",
+        "image":"the-dumbbell-curve.png",
+        "url":"http://www.zechariahtan.com"
+      },
+      {
+        "title":"How2Grad",
+        "category":"NUS Undergraduate degree planner",
+        "image":"how2grad.png",
+        "url":"http://www.how2grad.netlify.app"
+      },
+      {
+        "title":"ML assisted pre-term birth detection",
+        "category":"Research paper on the advanced detection of pre-term births using machine learning",
+        "image":"npfyp.png",
+        "url":"https://doi.org/10.1016/j.compbiomed.2017.04.013"
+      }
+    ]
+  }
+}
